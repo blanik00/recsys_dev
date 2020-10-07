@@ -3,6 +3,7 @@ __pycache__/
 .env
 venv/
 data/
+log/
 venvv/
 .vs/
 *.sln

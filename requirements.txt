@@ -14,3 +14,7 @@ scipy==1.4.1
 tensorflow==2.1.0
 gensim==3.8.3
 numpy~=1.19.2
+plotly==4.11.0
+funcsigs==1.0.2
+implicit==0.4.4
+scikit-surprise==1.1.1
